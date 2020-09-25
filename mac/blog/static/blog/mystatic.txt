@@ -1,0 +1,1 @@
+my static file is here in blog!
